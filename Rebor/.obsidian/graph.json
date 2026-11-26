@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"00 - Dashboard\"",
+      "color": {
+        "a": 1,
+        "rgb": 16376495
+      }
+    },
+    {
+      "query": "path:\"01 - Inbox\"",
+      "color": {
+        "a": 1,
+        "rgb": 16106215
+      }
+    },
+    {
+      "query": "path:\"02 - Planejamento\"",
+      "color": {
+        "a": 1,
+        "rgb": 16429959
+      }
+    },
+    {
+      "query": "path:\"03 - Projetos\"",
+      "color": {
+        "a": 1,
+        "rgb": 15961000
+      }
+    },
+    {
+      "query": "path:\"04 - Áreas da vida\"",
+      "color": {
+        "a": 1,
+        "rgb": 10937249
+      }
+    },
+    {
+      "query": "path:\"05 - Conhecimento\"",
+      "color": {
+        "a": 1,
+        "rgb": 9024762
+      }
+    },
+    {
+      "query": "path:\"06 - Recursos\"",
+      "color": {
+        "a": 1,
+        "rgb": 13346551
+      }
+    },
+    {
+      "query": "path:\"07 - Arquivo\"",
+      "color": {
+        "a": 1,
+        "rgb": 9757397
+      }
+    },
+    {
+      "query": "path:\"99 - Sistema\"",
+      "color": {
+        "a": 1,
+        "rgb": 7106694
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.15,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 105,
+  "scale": 0.5333333230218222,
+  "close": false
+}

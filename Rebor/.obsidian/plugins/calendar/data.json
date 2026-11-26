@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": false,
+  "weekStart": "sunday",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "gggg-[W]ww",
+  "weeklyNoteTemplate": "99 - Sistema/Templates/Semanal",
+  "weeklyNoteFolder": "02 - Planejamento/Semanal",
+  "localeOverride": "pt-br"
+}
